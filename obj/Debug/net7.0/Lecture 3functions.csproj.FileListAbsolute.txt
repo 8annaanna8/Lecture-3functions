@@ -1,0 +1,14 @@
+C:\Users\COMP\Desktop\Lecture 3functions\obj\Debug\net7.0\Lecture 3functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMP\Desktop\Lecture 3functions\obj\Debug\net7.0\Lecture 3functions.AssemblyInfoInputs.cache
+C:\Users\COMP\Desktop\Lecture 3functions\obj\Debug\net7.0\Lecture 3functions.AssemblyInfo.cs
+C:\Users\COMP\Desktop\Lecture 3functions\obj\Debug\net7.0\Lecture 3functions.csproj.CoreCompileInputs.cache
+C:\Users\COMP\Desktop\Lecture 3functions\bin\Debug\net7.0\Lecture 3functions.exe
+C:\Users\COMP\Desktop\Lecture 3functions\bin\Debug\net7.0\Lecture 3functions.deps.json
+C:\Users\COMP\Desktop\Lecture 3functions\bin\Debug\net7.0\Lecture 3functions.runtimeconfig.json
+C:\Users\COMP\Desktop\Lecture 3functions\bin\Debug\net7.0\Lecture 3functions.dll
+C:\Users\COMP\Desktop\Lecture 3functions\bin\Debug\net7.0\Lecture 3functions.pdb
+C:\Users\COMP\Desktop\Lecture 3functions\obj\Debug\net7.0\Lecture 3functions.dll
+C:\Users\COMP\Desktop\Lecture 3functions\obj\Debug\net7.0\refint\Lecture 3functions.dll
+C:\Users\COMP\Desktop\Lecture 3functions\obj\Debug\net7.0\Lecture 3functions.pdb
+C:\Users\COMP\Desktop\Lecture 3functions\obj\Debug\net7.0\Lecture 3functions.genruntimeconfig.cache
+C:\Users\COMP\Desktop\Lecture 3functions\obj\Debug\net7.0\ref\Lecture 3functions.dll
